@@ -1,6 +1,6 @@
 const Discord = require('discord.js');
 const client = new Discord.Client();
-var prefix = "S3";
+var prefix = "6";
 
 client.on('ready', () => {
   console.log('Logged in as ${client.user.tag}!');
